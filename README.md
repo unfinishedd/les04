@@ -1,9 +1,12 @@
 ## les 4
 
-# markdown en github leren
+# Steen
+# Papier
+# Schaar
 
-### drie hekjes​
+##​ Steen 20% kans op winnen 
 
-#### vier hekjes​
+### Papier 40%
 
-##### vijf hekjes​
+#### Schaar 40% op winnen 
+##### weglopen 99.99% kans op winnen
